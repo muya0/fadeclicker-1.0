@@ -12,6 +12,7 @@ My Discord Acc: https://discord.com/users/972959066836049920**
 **FadeClicker**
 ------------------------------
 **^Neden FadeClicker?^**
+
 ** - Fps Düşüşü yaşatmaz!**
 
 **- RMB Lock ( Ayarlanabilir. )**
